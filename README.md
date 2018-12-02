@@ -1,2 +1,3 @@
 # twine
-A simple node api app
+
+A simple node cli app
